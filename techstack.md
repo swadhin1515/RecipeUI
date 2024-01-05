@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/RecipeUI is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Rust](http://www.rust-lang.org/) – Languages
@@ -16,11 +17,13 @@ swadhin1515/RecipeUI is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/RecipeUI is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
@@ -35,14 +38,15 @@ swadhin1515/RecipeUI is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/RecipeUI](https://github.com/swadhin1515/RecipeUI)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|11/10/23 <br/>Report generated|
+|38<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -195,9 +199,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -211,6 +215,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.62.0|08/20/23|Jeane Carlos |BSD-2-Clause|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.3.2|08/18/23|Jeane Carlos |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v5.1.0|08/06/23|Jeane Carlos |MIT|N/A|
+|[downshift](https://www.npmjs.com/downshift)|v8.0.0|08/16/23|Jeane Carlos |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v5.0.0|08/20/23|Jeane Carlos |MIT|N/A|
 |[fuse.js](https://www.npmjs.com/fuse.js)|v6.6.2|08/16/23|Jeane Carlos |Apache-2.0|N/A|
 |[immer](https://www.npmjs.com/immer)|v9.0.21|08/16/23|Jeane Carlos |MIT|N/A|
@@ -220,10 +225,10 @@ Full tech stack [here](/techstack.md)
 |[postcss](https://www.npmjs.com/postcss)|v8.4.27|08/17/23|Jeane Carlos |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|08/17/23|Jeane Carlos |MIT|N/A|
 |[react-markdown](https://www.npmjs.com/react-markdown)|v8.0.7|08/16/23|Jeane Carlos |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.32.3|08/18/23|Samuel San |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.32.3|08/18/23|Samuel San |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.3|08/17/23|Jeane Carlos |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
